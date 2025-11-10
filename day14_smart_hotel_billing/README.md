@@ -39,30 +39,39 @@ build\program.exe
 
 ## Example Output
 ```
-Smart Hotel Room Booking System
+========= Smart Hotel Room Booking System =========
 Enter total number of customers: 2
-
 --- Customer 1 ---
-Enter name: Aditya
+Enter name: Arjun
 Enter room type (1-Deluxe, 2-Super Deluxe, 3-Suite): 2
 Enter number of days: 3
 Breakfast (Y/N): Y
+Wi-Fi (Y/N): N
+Gym Access (Y/N): Y
+Base Fare: ₹12000
+Additional Services: ₹1500
+Subtotal: ₹13500
+Discount (10%): ₹1350
+GST (12%): ₹1458
+Final Bill: ₹13508
+--- Customer 2 ---
+Enter name: Sneha
+Enter room type (1-Deluxe, 2-Super Deluxe, 3-Suite): 1
+Enter number of days: 2
+Breakfast (Y/N): N
 Wi-Fi (Y/N): Y
 Gym Access (Y/N): N
-
-Base Fare: 12000
-Additional Services: 1200
-Subtotal: 13200
-Discount 10 percent: 1320.000000
-GST 12 percent: 1425.600000
-Final Bill: 13305.600000
-
---- HOTEL SUMMARY ---
+Base Fare: ₹5000
+Additional Services: ₹200
+Subtotal: ₹5200
+Discount: ₹0
+GST (12%): ₹624
+Final Bill: ₹5824
+========= Hotel Summary =========
 Total Rooms Booked: 2
-Total Revenue: 25000
-Highest Bill: 13305
-Lowest Bill: 11700
-```
-
+Total Revenue: ₹19332
+Highest Bill: ₹13508
+Lowest Bill: ₹5824
+=================================
 ---
 
