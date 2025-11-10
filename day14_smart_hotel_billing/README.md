@@ -66,21 +66,3 @@ Lowest Bill: 11700
 
 ---
 
-## Repository Structure
-```
-Day15_SRM_Smart_Hotel_Billing_GaganAdithyaRam/
-├── main.c
-├── build/
-│   └── program.exe
-└── README.md
-```
-
----
-
-## Submission Checklist
-☑ main.c is complete and functional  
-☑ README.md included  
-☑ Executable file inside build/  
-☑ Repository named correctly  
-☑ GitHub link working  
-☑ Submitted before deadline
