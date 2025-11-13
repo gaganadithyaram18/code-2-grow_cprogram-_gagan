@@ -1,7 +1,7 @@
-# Day16_SRM_Student_Performance_Analyzer_GaganAdithya
+# Day15_Student_Performance_Analyzer_GaganAdithya
 **Student Name:** Gagan Adithya  
 **Roll No:** AP25110090156  
-**Challenge:** Day 16 - SRM Student Performance Analyzer
+**Challenge:** Day 15 -  Student Performance Analyzer
 
 ## Description
 This C program analyzes student performance by calculating grades based on marks entered for up to 10 students.  
