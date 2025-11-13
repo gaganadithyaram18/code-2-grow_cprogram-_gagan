@@ -1,7 +1,7 @@
-# Day15_SRM_Smart_Hotel_Billing_GaganAdithyaRam
+# Day14_Smart_Hotel_Billing_GaganAdithyaRam
 **Student Name:** Gagan Adithya Ram  
 **Roll No:** AP25110090156  
-**Challenge:** Day 15 - SRM Smart Hotel Billing System
+**Challenge:** Day 14 - SRM Smart Hotel Billing System
 
 ## Description
 This C program simulates a hotel billing system that calculates total charges based on room type, number of days, and optional services like Breakfast, Wi-Fi, and Gym Access.  
