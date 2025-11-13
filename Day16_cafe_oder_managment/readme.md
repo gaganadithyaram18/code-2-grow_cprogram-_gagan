@@ -1,7 +1,7 @@
-# Day17_SRM_Cafe_Order_Management_GaganAdithyaRam
+# Day16 Cafe_Order_Management_GaganAdithyaRam
 **Student Name:** Gagan Adithya Ram  
 **Roll No:** AP25110090156  
-**Challenge:** Day 17 - SRM Cafe Order Management System
+**Challenge:** Day 16-  Cafe Order Management System
 
 ## Description
 This C program simulates a café order management system.  
