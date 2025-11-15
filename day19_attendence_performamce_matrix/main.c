@@ -1,3 +1,6 @@
+### Name:T.GAGAN ADITHYA RAM
+### REGISTRATION NUMBER:AP25110090156
+
 #include <stdio.h>
 int main() 
 {
