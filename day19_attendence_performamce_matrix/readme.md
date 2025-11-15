@@ -79,6 +79,25 @@ build\program.exe
 
 ---
 ## Output
+Enter names of 5 students
+ram
+adithya
+gagan
+rahul
+nayan
+enter attendence for ram
+1
+0
+1
+1
+1
+enter attendence for adithya 
+1
+1
+0
+0
+0
+
 1.Display Attendence matrix
 2.Display marks matrix
 3.Attendence Report
