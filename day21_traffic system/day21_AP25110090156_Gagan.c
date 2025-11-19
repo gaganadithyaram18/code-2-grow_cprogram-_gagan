@@ -8,7 +8,8 @@ int countSpeedViolations(int speed[], int num_vehicles);
 int countLaneViolations(int id[], int lane[], int num_vechicles);
 void displayReport(int id[], int speed[], int lane[], int num_vehicles);
 
-int main() {
+int main() 
+{
 
     int id[MAX], speed[MAX], lane[MAX];
     int num_vehicles;
@@ -77,11 +78,11 @@ void displayReport(int id[], int speed[], int lane[], int num_vehicles){
     printf("\nVehID\tSpeed\tLane\tSpeedVoilation\tLaneV0ilation\n");
 
     for(int i = 0; i < num_vehicles; i++){
-        int speedV = (speed[i] > 80);
+        int speedVoilation = (speed[i] > 80);
 
         int expected = id[i] % 4;
         if(expected == 0) expected = 4;
-        int laneV = (expected != lane[i]);
+        int laneVoilation = (expected != lane[i]);
 
         printf("%d\t%d\t%d\t%d\t%d\n",
                id[i], speed[i], lane[i], speedVoilation, laneVoilation);
